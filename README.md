@@ -15,7 +15,7 @@ This allows you to manage large files efficiently and break them down into chunk
   - **Preserve newlines**: Keep existing line breaks in the output files.
   - **Cut at next newline**: Split the text at the next newline after reaching the average word count.
 
-## 💾 Installation
+## Installation
 
 Clone the repository and install the required libraries:
 
