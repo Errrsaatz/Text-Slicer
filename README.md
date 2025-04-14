@@ -20,6 +20,6 @@ This allows you to manage large files efficiently and break them down into chunk
 Clone the repository and install the required libraries:
 
 ```bash
-git clone https://github.com/yourusername/text-slicer.git
+git clone https://github.com/yErrrsaatz/Text-Slicer.git
 cd text-slicer
 pip install ttkbootstrap
