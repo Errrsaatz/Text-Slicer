@@ -7,7 +7,7 @@ This allows you to manage large files efficiently and break them down into chunk
 
 - **File Selection**: Choose the text file you want to split.
 - **Output Folder**: Specify the output folder where the sliced files will be saved.
-- **⚙Parameters**:
+- **Parameters**:
   - Set the **average number of words per file**.
   - Set the **maximum number of words per file**.
   - Define the **filename format** for the output files.
