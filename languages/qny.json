@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Quenya",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Minya Quenya equétiéva Text Slicer-n"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Camier",
+      "file_selection": "Técina Parma",
+      "browse": "Cesta",
+      "clear": "Hrasa",
+      "output_folder": "Ettulé Maptalë",
+      "parameters": "Nótier",
+      "avg_words": "Enderëa quettaron nótië parmalissë:",
+      "max_words": "Analta quettaron nótië parmalissë:",
+      "file_name": "Parma esser:",
+      "options": "Cilmer",
+      "preserve_newlines": "Rehtaina linë-metier",
+      "cut_at_newline": "Hyapa i enta linë-metië apa enderëa quettaron nótië",
+      "slice_button": "Hyapa",
+      "error_no_file": "Úcarë: Úva parma cílina.",
+      "error_file_not_exist": "Úcarë: Parma {file} úva ëa.",
+      "success_message": "I tecië anaië hyápina {count} parmalissen i maptalessë '{folder}'.",
+      "language": "Lambë:",
+      "theme": "Thema:",
+      "appearance": "Vénë",
+      "about": "Sina",
+      "app_description": "Tyalië hyapien tecië parmar rimba rantassen nótië quettaron.",
+      "created_by": "Ontaina lo Boris Hanicotte",
+      "translation_info": "Equétië Istya",
+      "translator": "Equétar",
+      "version": "Lúmë",
+      "created": "Ontaina lúmessë",
+      "comment": "Quenta",
+      "translation_note": "Cila merilya lambë i cilmello or."
+    }
+  }
+  

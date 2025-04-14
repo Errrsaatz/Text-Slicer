@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Русский (Russian)",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Первоначальный русский перевод для Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Настройки",
+      "file_selection": "Выбор файла",
+      "browse": "Обзор",
+      "clear": "Очистить",
+      "output_folder": "Папка вывода",
+      "parameters": "Параметры",
+      "avg_words": "Среднее количество слов в файле:",
+      "max_words": "Максимальное количество слов в файле:",
+      "file_name": "Имена файлов:",
+      "options": "Опции",
+      "preserve_newlines": "Сохранять переносы строк",
+      "cut_at_newline": "Разрезать на следующем переносе строки после среднего количества слов",
+      "slice_button": "Разрезать",
+      "error_no_file": "Ошибка: Файл не выбран.",
+      "error_file_not_exist": "Ошибка: Файл {file} не существует.",
+      "success_message": "Текст был разделен на {count} файлов в папке '{folder}'.",
+      "language": "Язык:",
+      "theme": "Тема:",
+      "appearance": "Внешний вид",
+      "about": "О программе",
+      "app_description": "Приложение для разделения текстовых файлов на несколько частей в зависимости от количества слов.",
+      "created_by": "Создано Борисом Ханикоттом",
+      "translation_info": "Информация о переводе",
+      "translator": "Переводчик",
+      "version": "Версия",
+      "created": "Создано",
+      "comment": "Комментарий",
+      "translation_note": "Выберите предпочитаемый язык из меню выше."
+    }
+  }
+  

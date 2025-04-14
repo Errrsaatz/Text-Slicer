@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "toki pona",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "ante toki nanpa wan pi toki pona tawa Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "ilo ante",
+      "file_selection": "jo lipu",
+      "browse": "lukin",
+      "clear": "weka",
+      "output_folder": "poki pana",
+      "parameters": "nasin",
+      "avg_words": "nanpa nimi lon lipu:",
+      "max_words": "nanpa nimi suli lon lipu:",
+      "file_name": "nimi lipu:",
+      "options": "nasin ante",
+      "preserve_newlines": "awen pi pini linja",
+      "cut_at_newline": "kipisi lon pini linja lon nanpa nimi",
+      "slice_button": "kipisi",
+      "error_no_file": "pakala: lipu li lon ala.",
+      "error_file_not_exist": "pakala: lipu {file} li lon ala.",
+      "success_message": "sitelen li kipisi tawa {count} lipu lon poki '{folder}'.",
+      "language": "toki:",
+      "theme": "lukin:",
+      "appearance": "lukin",
+      "about": "sona",
+      "app_description": "ilo pi kipisi lipu sitelen tawa mute lipu kepeken nanpa nimi.",
+      "created_by": "jan pali li Boris Hanicotte",
+      "translation_info": "sona pi ante toki",
+      "translator": "jan pi ante toki",
+      "version": "nanpa",
+      "created": "tenpo pali",
+      "comment": "toki",
+      "translation_note": "o wile e toki sina tan lipu sewi."
+    }
+  }
+  

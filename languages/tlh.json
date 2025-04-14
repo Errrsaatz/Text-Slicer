@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "tlhIngan Hol",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicer Daqvo' tlhIngan Hol ghItlh"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "SeHlaw",
+      "file_selection": "teywI' wIv",
+      "browse": "rar",
+      "clear": "qImHa'",
+      "output_folder": "ngeH Daq",
+      "parameters": "qeqmey",
+      "avg_words": "teywI' wej mu' poH:",
+      "max_words": "teywI' 'eb mu' poH:",
+      "file_name": "teywI' pong:",
+      "options": "DuH",
+      "preserve_newlines": "HurDaq ghItlh yIchenmoH",
+      "cut_at_newline": "mu' poH Qav HurDaq ghItlh yIpegh",
+      "slice_button": "pegh",
+      "error_no_file": "Qagh: teywI' wIvbe'.",
+      "error_file_not_exist": "Qagh: {file} teywI' tu'lu'be'.",
+      "success_message": "ghItlh peghlu' {count} teywI' Daq '{folder}'.",
+      "language": "Hol:",
+      "theme": "Qab:",
+      "appearance": "mI'",
+      "about": "Dochvam",
+      "app_description": "mu' mI' Doch teywI' ghItlh pegh.",
+      "created_by": "chenmoH Boris Hanicotte",
+      "translation_info": "Hol ghItlh De'",
+      "translator": "Hol ghItlhwI'",
+      "version": "mI'",
+      "created": "chenmoHlu'",
+      "comment": "QIn",
+      "translation_note": "wIlIj Hol wIv pa' DuH."
+    }
+  }
+  

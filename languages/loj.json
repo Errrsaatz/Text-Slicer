@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "la .lojban.",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "pamoi lojbo fanva be la Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "cuxna",
+      "file_selection": "datnyvei cuxna",
+      "browse": "sisku",
+      "clear": "vimcu",
+      "output_folder": "datnyveimapti",
+      "parameters": "tcila",
+      "avg_words": "ni'o valsi datnyvei:",
+      "max_words": "bramau valsi datnyvei:",
+      "file_name": "datnyvei cmene:",
+      "options": "cuxna",
+      "preserve_newlines": "ralte lo se fanmo linji",
+      "cut_at_newline": "katna lo se fanmo linji ba lo ni'o valsi",
+      "slice_button": "katna",
+      "error_no_file": "srera: no da cuxna fi lo datnyvei",
+      "error_file_not_exist": "srera: lo datnyvei {file} cu na zasti",
+      "success_message": "lo ciska cu se katna fi {count} datnyvei ne'i lo datnyveimapti '{folder}'.",
+      "language": "bangu:",
+      "theme": "tarmi:",
+      "appearance": "tarmi",
+      "about": "skicu",
+      "app_description": "lo samtci be lo nu katna lo ciska datnyvei lo so'i pagbu sepi'o lo valsi kancu",
+      "created_by": "zbasu fa la Boris Hanicotte",
+      "translation_info": "fanva datni",
+      "translator": "fanva",
+      "version": "porsi",
+      "created": "se zbasu ca",
+      "comment": "pinka",
+      "translation_note": "ko cuxna lo se nelrai bangu do fi lo galfi liste"
+    }
+  }
+  

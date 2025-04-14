@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "ქართული",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicer-ის საწყისი ქართული თარგმანი"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "პარამეტრები",
+      "file_selection": "ფაილის არჩევა",
+      "browse": "დათვალიერება",
+      "clear": "გასუფთავება",
+      "output_folder": "გამომავალი საქაღალდე",
+      "parameters": "პარამეტრები",
+      "avg_words": "საშუალო სიტყვების რაოდენობა ფაილში:",
+      "max_words": "მაქსიმალური სიტყვების რაოდენობა ფაილში:",
+      "file_name": "ფაილის სახელები:",
+      "options": "ოფციები",
+      "preserve_newlines": "ხაზის გადატანის შენარჩუნება",
+      "cut_at_newline": "გაჭრა შემდეგ ხაზის გადატანაზე საშუალო სიტყვების რაოდენობის შემდეგ",
+      "slice_button": "დაჭრა",
+      "error_no_file": "შეცდომა: ფაილი არ არის არჩეული.",
+      "error_file_not_exist": "შეცდომა: ფაილი {file} არ არსებობს.",
+      "success_message": "ტექსტი დაიყო {count} ფაილად '{folder}' საქაღალდეში.",
+      "language": "ენა:",
+      "theme": "თემა:",
+      "appearance": "გარეგნობა",
+      "about": "შესახებ",
+      "app_description": "აპლიკაცია ტექსტური ფაილების დასაყოფად რამდენიმე ნაწილად სიტყვების რაოდენობის მიხედვით.",
+      "created_by": "შექმნილია Boris Hanicotte-ის მიერ",
+      "translation_info": "თარგმანის ინფორმაცია",
+      "translator": "მთარგმნელი",
+      "version": "ვერსია",
+      "created": "შექმნის თარიღი",
+      "comment": "კომენტარი",
+      "translation_note": "აირჩიეთ თქვენი სასურველი ენა ზემოთ მოცემული მენიუდან."
+    }
+  }
+  

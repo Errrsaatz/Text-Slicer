@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Հայերեն",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicer-ի սկզբնական հայերեն թարգմանություն"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Կարգավորումներ",
+      "file_selection": "Ֆայլի ընտրություն",
+      "browse": "Դիտել",
+      "clear": "Մաքրել",
+      "output_folder": "Ելքային պանակ",
+      "parameters": "Պարամետրեր",
+      "avg_words": "Միջին բառերի քանակը ֆայլում:",
+      "max_words": "Առավելագույն բառերի քանակը ֆայլում:",
+      "file_name": "Ֆայլերի անուններ:",
+      "options": "Ընտրանքներ",
+      "preserve_newlines": "Պահպանել տողադարձերը",
+      "cut_at_newline": "Կտրել հաջորդ տողադարձի վրա միջին բառերի քանակից հետո",
+      "slice_button": "Կտրել",
+      "error_no_file": "Սխալ: Ֆայլ ընտրված չէ։",
+      "error_file_not_exist": "Սխալ: {file} ֆայլը գոյություն չունի։",
+      "success_message": "Տեքստը բաժանվել է {count} ֆայլերի '{folder}' պանակում։",
+      "language": "Լեզու:",
+      "theme": "Թեմա:",
+      "appearance": "Տեսք",
+      "about": "Մասին",
+      "app_description": "Հավելված՝ տեքստային ֆայլերը բառերի քանակի հիման վրա մի քանի մասերի բաժանելու համար։",
+      "created_by": "Ստեղծված է Boris Hanicotte-ի կողմից",
+      "translation_info": "Թարգմանության տեղեկություն",
+      "translator": "Թարգմանիչ",
+      "version": "Տարբերակ",
+      "created": "Ստեղծված է",
+      "comment": "Մեկնաբանություն",
+      "translation_note": "Ընտրեք ձեր նախընտրած լեզուն վերևի ընտրացանկից։"
+    }
+  }
+  

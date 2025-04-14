@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "lang": "Français",
+    "author": "Boris Hanicotte",
+    "created": "2025-04-14",
+    "version": "1.0",
+    "comment": "Traduction française initiale pour Text Slicer"
+  },
+  "translations": {
+    "app_title": "Text Slicer",
+    "main_tab": "Text Slicer",
+    "settings_tab": "Configuration",
+    "file_selection": "Sélection du fichier",
+    "browse": "Parcourir",
+    "clear": "Effacer",
+    "output_folder": "Dossier d'export",
+    "parameters": "Paramètres",
+    "avg_words": "Moyenne de mots par fichier:",
+    "max_words": "Maximum de mots par fichier:",
+    "file_name": "Nom des fichiers:",
+    "options": "Options",
+    "preserve_newlines": "Préserver les retours à la ligne",
+    "cut_at_newline": "Couper au prochain saut de ligne après la moyenne de mots",
+    "slice_button": "Découper",
+    "error_no_file": "Erreur: Aucun fichier sélectionné.",
+    "error_file_not_exist": "Erreur: Le fichier {file} n'existe pas.",
+    "success_message": "Le texte a été divisé en {count} fichiers dans le dossier '{folder}'.",
+    "language": "Langue:",
+    "theme": "Thème:",
+    "appearance": "Apparence",
+    "about": "À propos",
+    "app_description": "Une application pour découper des fichiers texte en plusieurs parties selon le nombre de mots.",
+    "created_by": "Créé par Boris Hanicotte",
+    "translation_info": "Informations sur la traduction",
+    "translator": "Traducteur",
+    "version": "Version",
+    "created": "Créée le",
+    "comment": "Commentaire",
+    "translation_note": "Sélectionnez votre langue préférée dans le menu ci-dessus."
+  }
+}

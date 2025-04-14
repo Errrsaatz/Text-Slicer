@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "한국어",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicer의 초기 한국어 번역"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "설정",
+      "file_selection": "파일 선택",
+      "browse": "찾아보기",
+      "clear": "지우기",
+      "output_folder": "출력 폴더",
+      "parameters": "매개변수",
+      "avg_words": "파일당 평균 단어 수:",
+      "max_words": "파일당 최대 단어 수:",
+      "file_name": "파일 이름:",
+      "options": "옵션",
+      "preserve_newlines": "줄바꿈 유지",
+      "cut_at_newline": "평균 단어 수 이후 다음 줄바꿈에서 자르기",
+      "slice_button": "자르기",
+      "error_no_file": "오류: 선택된 파일이 없습니다.",
+      "error_file_not_exist": "오류: {file} 파일이 존재하지 않습니다.",
+      "success_message": "텍스트가 '{folder}' 폴더에 {count}개의 파일로 분할되었습니다.",
+      "language": "언어:",
+      "theme": "테마:",
+      "appearance": "외관",
+      "about": "정보",
+      "app_description": "단어 수에 따라 텍스트 파일을 여러 부분으로 분할하는 애플리케이션입니다.",
+      "created_by": "Boris Hanicotte 제작",
+      "translation_info": "번역 정보",
+      "translator": "번역자",
+      "version": "버전",
+      "created": "생성일",
+      "comment": "코멘트",
+      "translation_note": "위 메뉴에서 원하는 언어를 선택하세요."
+    }
+  }
+  

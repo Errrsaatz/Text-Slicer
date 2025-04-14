@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Láadan",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Láadan óoláad wíi Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Rahíya",
+      "file_selection": "Letheb Rahíya",
+      "browse": "Letheb",
+      "clear": "Menedim",
+      "output_folder": "Rahíya Letheb",
+      "parameters": "Rahíya",
+      "avg_words": "Letheb wíi rahíya:",
+      "max_words": "Letheb wíi rahíya bríid:",
+      "file_name": "Rahíya áath:",
+      "options": "Rahíya",
+      "preserve_newlines": "Menedim letheb wíi",
+      "cut_at_newline": "Menedim letheb wíi rahíya",
+      "slice_button": "Menedim",
+      "error_no_file": "Woho: Rahíya menedim.",
+      "error_file_not_exist": "Woho: Rahíya {file} menedim.",
+      "success_message": "Letheb menedim {count} rahíya '{folder}'.",
+      "language": "Láadan:",
+      "theme": "Rahíya:",
+      "appearance": "Rahíya",
+      "about": "Wíi",
+      "app_description": "Rahíya menedim letheb wíi rahíya letheb.",
+      "created_by": "Menedim Boris Hanicotte",
+      "translation_info": "Láadan Óoláad",
+      "translator": "Láadan",
+      "version": "Rahíya",
+      "created": "Menedim wíi",
+      "comment": "Letheb",
+      "translation_note": "Rahíya láadan wíi rahíya."
+    }
+  }
+  

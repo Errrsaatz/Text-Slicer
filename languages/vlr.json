@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Valyrīha Eglie",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Valyrīha Eglie jentyssy Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Dōnagon",
+      "file_selection": "Vāedar Jentys",
+      "browse": "Jentysagon",
+      "clear": "Sōnagon",
+      "output_folder": "Jelmāzma Vāedar",
+      "parameters": "Dōnion",
+      "avg_words": "Vala vēttir va vāedar:",
+      "max_words": "Sīkuda vēttir va vāedar:",
+      "file_name": "Vāedar brōzi:",
+      "options": "Dōnion",
+      "preserve_newlines": "Glaesagon jelmāzma lintir",
+      "cut_at_newline": "Sylugon va jelmāzma linta arlī vala vēttir",
+      "slice_button": "Sylugon",
+      "error_no_file": "Sytilībagon: Daor vāedar jentys.",
+      "error_file_not_exist": "Sytilībagon: Vāedar {file} daor gōntan.",
+      "success_message": "Vēttir sȳrī sylugon {count} vāedari va vāedar '{folder}'.",
+      "language": "Vēttir:",
+      "theme": "Dōnior:",
+      "appearance": "Jentys",
+      "about": "Kesir",
+      "app_description": "Dōnior naejot sylugon vēttir vāedari naejot tolī pōnta va vēttir gīmin.",
+      "created_by": "Qringaomagon ondoso Boris Hanicotte",
+      "translation_info": "Jentyssy Glaesagon",
+      "translator": "Jentyssy",
+      "version": "Gīmion",
+      "created": "Qringaomagon va",
+      "comment": "Jelmāzma",
+      "translation_note": "Jentysagon aōhon vēttir hen dōnion nūmāzma."
+    }
+  }
+  

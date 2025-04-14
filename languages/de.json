@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Deutsch",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Erste deutsche Übersetzung für Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Einstellungen",
+      "file_selection": "Dateiauswahl",
+      "browse": "Durchsuchen",
+      "clear": "Löschen",
+      "output_folder": "Ausgabeordner",
+      "parameters": "Parameter",
+      "avg_words": "Durchschnittliche Wörter pro Datei:",
+      "max_words": "Maximale Wörter pro Datei:",
+      "file_name": "Dateinamen:",
+      "options": "Optionen",
+      "preserve_newlines": "Zeilenumbrüche beibehalten",
+      "cut_at_newline": "Am nächsten Zeilenumbruch nach Durchschnittswörtern schneiden",
+      "slice_button": "Schneiden",
+      "error_no_file": "Fehler: Keine Datei ausgewählt.",
+      "error_file_not_exist": "Fehler: Die Datei {file} existiert nicht.",
+      "success_message": "Der Text wurde in {count} Dateien im Ordner '{folder}' aufgeteilt.",
+      "language": "Sprache:",
+      "theme": "Thema:",
+      "appearance": "Erscheinungsbild",
+      "about": "Über",
+      "app_description": "Eine Anwendung zum Aufteilen von Textdateien in mehrere Teile basierend auf der Wortanzahl.",
+      "created_by": "Erstellt von Boris Hanicotte",
+      "translation_info": "Übersetzungsinformationen",
+      "translator": "Übersetzer",
+      "version": "Version",
+      "created": "Erstellt am",
+      "comment": "Kommentar",
+      "translation_note": "Wählen Sie Ihre bevorzugte Sprache aus dem obigen Menü."
+    }
+  }
+  

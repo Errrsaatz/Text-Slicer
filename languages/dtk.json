@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Dothraki",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Dothraki qafat akkate mori Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Vilajeroshi",
+      "file_selection": "Firesof Tihat",
+      "browse": "Tihilat",
+      "clear": "Qoralat",
+      "output_folder": "Astosor Firesofisir",
+      "parameters": "Vilajeroshi",
+      "avg_words": "Lekhes lekhi she firesof:",
+      "max_words": "Eth lekhi she firesof:",
+      "file_name": "Firesof essa:",
+      "options": "Vosi",
+      "preserve_newlines": "Vijazerat lekhitihaan",
+      "cut_at_newline": "Cheritat she lekhitihaan ma lekhes lekhi",
+      "slice_button": "Cheritat",
+      "error_no_file": "Azzafrok: Firesof vos tihi.",
+      "error_file_not_exist": "Azzafrok: Firesof {file} vos vekho.",
+      "success_message": "Lekh eshna cheritaan {count} firesofisir she firesofisir '{folder}'.",
+      "language": "Lekh:",
+      "theme": "Them:",
+      "appearance": "Tihat",
+      "about": "Hake",
+      "app_description": "Vilajerosh ha cheritat lekh firesofisir ha ojil tithaan she lekhi athvezhvenar.",
+      "created_by": "Vilikhaan ki Boris Hanicotte",
+      "translation_info": "Qafat Istish",
+      "translator": "Qafat",
+      "version": "Athvezhvenar",
+      "created": "Vilikhaan she",
+      "comment": "Astosor",
+      "translation_note": "Tihi lekh yeraan she vosi she."
+    }
+  }
+  

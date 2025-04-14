@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Svenska",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Initial svensk översättning för Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Inställningar",
+      "file_selection": "Filval",
+      "browse": "Bläddra",
+      "clear": "Rensa",
+      "output_folder": "Utmatningskatalog",
+      "parameters": "Parametrar",
+      "avg_words": "Genomsnittligt antal ord per fil:",
+      "max_words": "Maximalt antal ord per fil:",
+      "file_name": "Filnamn:",
+      "options": "Alternativ",
+      "preserve_newlines": "Bevara radbrytningar",
+      "cut_at_newline": "Klipp vid nästa radbrytning efter genomsnittligt ordantal",
+      "slice_button": "Dela",
+      "error_no_file": "Fel: Ingen fil vald.",
+      "error_file_not_exist": "Fel: Filen {file} finns inte.",
+      "success_message": "Texten har delats upp i {count} filer i mappen '{folder}'.",
+      "language": "Språk:",
+      "theme": "Tema:",
+      "appearance": "Utseende",
+      "about": "Om",
+      "app_description": "En applikation för att dela textfiler i flera delar baserat på antal ord.",
+      "created_by": "Skapad av Boris Hanicotte",
+      "translation_info": "Översättningsinformation",
+      "translator": "Översättare",
+      "version": "Version",
+      "created": "Skapad den",
+      "comment": "Kommentar",
+      "translation_note": "Välj ditt föredragna språk från menyn ovan."
+    }
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "日本語 (Japanese)",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicerの初期日本語翻訳"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "設定",
+      "file_selection": "ファイル選択",
+      "browse": "参照",
+      "clear": "クリア",
+      "output_folder": "出力フォルダ",
+      "parameters": "パラメータ",
+      "avg_words": "ファイルあたりの平均単語数:",
+      "max_words": "ファイルあたりの最大単語数:",
+      "file_name": "ファイル名:",
+      "options": "オプション",
+      "preserve_newlines": "改行を保持する",
+      "cut_at_newline": "平均単語数の後の次の改行で切る",
+      "slice_button": "分割",
+      "error_no_file": "エラー: ファイルが選択されていません。",
+      "error_file_not_exist": "エラー: ファイル {file} は存在しません。",
+      "success_message": "テキストは '{folder}' フォルダ内の {count} 個のファイルに分割されました。",
+      "language": "言語:",
+      "theme": "テーマ:",
+      "appearance": "外観",
+      "about": "アプリについて",
+      "app_description": "単語数に基づいてテキストファイルを複数の部分に分割するアプリケーション。",
+      "created_by": "Boris Hanicotte 作",
+      "translation_info": "翻訳情報",
+      "translator": "翻訳者",
+      "version": "バージョン",
+      "created": "作成日",
+      "comment": "コメント",
+      "translation_note": "上のメニューから希望の言語を選択してください。"
+    }
+  }
+  

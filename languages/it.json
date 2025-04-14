@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Italiano",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Traduzione italiana iniziale per Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Impostazioni",
+      "file_selection": "Selezione file",
+      "browse": "Sfoglia",
+      "clear": "Cancella",
+      "output_folder": "Cartella di output",
+      "parameters": "Parametri",
+      "avg_words": "Media parole per file:",
+      "max_words": "Massimo parole per file:",
+      "file_name": "Nomi dei file:",
+      "options": "Opzioni",
+      "preserve_newlines": "Preserva interruzioni di riga",
+      "cut_at_newline": "Taglia alla prossima interruzione di riga dopo la media di parole",
+      "slice_button": "Taglia",
+      "error_no_file": "Errore: Nessun file selezionato.",
+      "error_file_not_exist": "Errore: Il file {file} non esiste.",
+      "success_message": "Il testo è stato diviso in {count} file nella cartella '{folder}'.",
+      "language": "Lingua:",
+      "theme": "Tema:",
+      "appearance": "Aspetto",
+      "about": "Informazioni",
+      "app_description": "Un'applicazione per dividere file di testo in più parti in base al numero di parole.",
+      "created_by": "Creato da Boris Hanicotte",
+      "translation_info": "Informazioni sulla traduzione",
+      "translator": "Traduttore",
+      "version": "Versione",
+      "created": "Creato il",
+      "comment": "Commento",
+      "translation_note": "Seleziona la tua lingua preferita dal menu sopra."
+    }
+  }
+  

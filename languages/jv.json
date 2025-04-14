@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "ꦧꦱꦗꦮ",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Terjemahan basa Jawa pisanan kanggo Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "ꦥꦁꦒꦠꦸꦫꦤ꧀",
+      "file_selection": "ꦥꦶꦭꦶꦲꦤ꧀ꦧꦼꦂꦏꦱ꧀",
+      "browse": "ꦠꦼꦭꦸꦱꦸꦫꦶ",
+      "clear": "ꦧꦼꦂꦱꦶꦃꦏꦤ꧀",
+      "output_folder": "ꦥ꦳ꦺꦴꦭ꧀ꦢꦼꦂꦏꦼꦭꦸꦮꦂꦫꦤ꧀",
+      "parameters": "ꦥꦫꦩꦼꦠꦼꦂ",
+      "avg_words": "ꦫꦠꦫꦠꦠꦼꦩ꧀ꦧꦸꦁꦥꦼꦂꦧꦼꦂꦏꦱ꧀:",
+      "max_words": "ꦩꦏ꧀ꦱꦶꦩꦭ꧀ꦠꦼꦩ꧀ꦧꦸꦁꦥꦼꦂꦧꦼꦂꦏꦱ꧀:",
+      "file_name": "ꦗꦼꦤꦼꦁꦧꦼꦂꦏꦱ꧀:",
+      "options": "ꦥꦶꦭꦶꦲꦤ꧀",
+      "preserve_newlines": "ꦚ꧀ꦗꦒꦒꦫꦶꦱ꧀ꦄꦚꦂ",
+      "cut_at_newline": "ꦩꦺꦴꦠꦺꦴꦁꦲꦶꦁꦒꦫꦶꦱ꧀ꦄꦚꦂꦱꦧꦚ꧀ꦗꦸꦂꦫꦺꦱꦮꦶꦱꦺꦫꦠꦫꦠꦠꦼꦩ꧀ꦧꦸꦁ",
+      "slice_button": "ꦲꦶꦫꦶꦱ꧀",
+      "error_no_file": "ꦏꦼꦱꦭꦲꦤ꧀: ꦎꦫꦄꦤꦧꦼꦂꦏꦱ꧀ꦱꦶꦁꦢꦶꦥꦶꦭꦶꦃ.",
+      "error_file_not_exist": "ꦏꦼꦱꦭꦲꦤ꧀: ꦧꦼꦂꦏꦱ꧀ {file} ꦎꦫꦄꦤ.",
+      "success_message": "ꦠꦼꦏ꧀ꦱ꧀ꦮꦶꦱ꧀ꦢꦶꦧꦒꦶꦢꦢꦶ {count} ꦧꦼꦂꦏꦱ꧀ꦲꦶꦁꦥ꦳ꦺꦴꦭ꧀ꦢꦼꦂ '{folder}'.",
+      "language": "ꦧꦱ:",
+      "theme": "ꦠꦺꦩ:",
+      "appearance": "ꦠꦩ꧀ꦥꦶꦭꦤ꧀",
+      "about": "ꦧꦧꦒꦤ꧀",
+      "app_description": "ꦄꦥ꧀ꦭꦶꦏꦱꦶꦏꦁꦒꦺꦴꦩ꧀ꦧꦒꦶꦧꦼꦂꦏꦱ꧀ꦠꦼꦏ꧀ꦱ꧀ꦢꦢꦶꦥꦶꦫꦁꦥꦶꦫꦁꦧꦒꦶꦪꦤ꧀ꦄꦝꦼꦝꦱꦂꦗꦸꦩ꧀ꦭꦃꦠꦼꦩ꧀ꦧꦸꦁ.",
+      "created_by": "ꦢꦶꦒꦮꦺꦢꦺꦤꦶꦁꦨꦺꦴꦫꦶꦱ꧀ꦲꦤꦶꦕꦺꦴꦠ꧀ꦠꦺ",
+      "translation_info": "ꦆꦤ꧀ꦥ꦳ꦺꦴꦂꦩꦱꦶꦠꦼꦂꦗꦼꦩꦲꦤ꧀",
+      "translator": "ꦥꦼꦤꦼꦂꦗꦼꦩꦃ",
+      "version": "ꦮꦼꦂꦱꦶ",
+      "created": "ꦢꦶꦒꦮꦺꦲꦶꦁ",
+      "comment": "ꦏꦺꦴꦩꦼꦤ꧀ꦠꦂ",
+      "translation_note": "ꦥꦶꦭꦶꦃꦧꦱꦱꦶꦁꦢꦶꦏꦉꦥꦏꦺꦱꦏꦩꦼꦤꦸꦲꦶꦁꦝꦸꦮꦸꦂ."
+    }
+  }
+  

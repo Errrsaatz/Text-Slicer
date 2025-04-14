@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "हिन्दी",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicer के लिए प्रारंभिक हिंदी अनुवाद"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "सेटिंग्स",
+      "file_selection": "फ़ाइल चयन",
+      "browse": "ब्राउज़",
+      "clear": "साफ़ करें",
+      "output_folder": "आउटपुट फ़ोल्डर",
+      "parameters": "पैरामीटर",
+      "avg_words": "प्रति फ़ाइल औसत शब्द:",
+      "max_words": "प्रति फ़ाइल अधिकतम शब्द:",
+      "file_name": "फ़ाइल नाम:",
+      "options": "विकल्प",
+      "preserve_newlines": "नई लाइनों को संरक्षित करें",
+      "cut_at_newline": "औसत शब्द संख्या के बाद अगली नई लाइन पर काटें",
+      "slice_button": "स्लाइस",
+      "error_no_file": "त्रुटि: कोई फ़ाइल चयनित नहीं है।",
+      "error_file_not_exist": "त्रुटि: फ़ाइल {file} मौजूद नहीं है।",
+      "success_message": "टेक्स्ट को '{folder}' फ़ोल्डर में {count} फ़ाइलों में विभाजित किया गया है।",
+      "language": "भाषा:",
+      "theme": "थीम:",
+      "appearance": "उपस्थिति",
+      "about": "के बारे में",
+      "app_description": "शब्द गणना के आधार पर टेक्स्ट फ़ाइलों को कई भागों में विभाजित करने के लिए एक एप्लिकेशन।",
+      "created_by": "Boris Hanicotte द्वारा बनाया गया",
+      "translation_info": "अनुवाद जानकारी",
+      "translator": "अनुवादक",
+      "version": "संस्करण",
+      "created": "बनाया गया",
+      "comment": "टिप्पणी",
+      "translation_note": "ऊपर दिए गए मेनू से अपनी पसंदीदा भाषा चुनें।"
+    }
+  }
+  

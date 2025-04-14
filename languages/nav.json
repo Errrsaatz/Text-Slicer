@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Na'vi",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "'Awvea lì'fya Na'vi-ä fpi Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Sìftxey",
+      "file_selection": "Fì'u Ftxey",
+      "browse": "Tìng tseng",
+      "clear": "Zey'ìn",
+      "output_folder": "Kllte'ä Fì'u",
+      "parameters": "Sìftxey",
+      "avg_words": "Hìmtxan lì'u alo fì'u:",
+      "max_words": "Txantsan lì'u alo fì'u:",
+      "file_name": "Fì'u tstxo:",
+      "options": "Sìftxey",
+      "preserve_newlines": "Ziverok txìm srung",
+      "cut_at_newline": "Txula mì txìm srung hu hìmtxan lì'u",
+      "slice_button": "Txula",
+      "error_no_file": "Kxeyey: Ke lu fì'u ftxolängey.",
+      "error_file_not_exist": "Kxeyey: Fì'u {file} ke fkeytok.",
+      "success_message": "Pamrel atxolula {count} fì'u mì kllte'ä fì'u '{folder}'.",
+      "language": "Lì'fya:",
+      "theme": "Sìftxey:",
+      "appearance": "Tìfkeytok",
+      "about": "Teri",
+      "app_description": "Tìftxey a txula pamrel fì'u mì pxey hapxì hu lì'u hìmtxan.",
+      "created_by": "Ngopyu Boris Hanicotte",
+      "translation_info": "Lì'fyayä Tìralpeng",
+      "translator": "Plltxeyu",
+      "version": "Tìfkeytok",
+      "created": "Ngopyu mì",
+      "comment": "Tìpawm",
+      "translation_note": "Ftxey ngeyä lì'fya ta sìftxey ta."
+    }
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Polski",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Początkowe tłumaczenie na język polski dla Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Ustawienia",
+      "file_selection": "Wybór pliku",
+      "browse": "Przeglądaj",
+      "clear": "Wyczyść",
+      "output_folder": "Folder wyjściowy",
+      "parameters": "Parametry",
+      "avg_words": "Średnia liczba słów na plik:",
+      "max_words": "Maksymalna liczba słów na plik:",
+      "file_name": "Nazwy plików:",
+      "options": "Opcje",
+      "preserve_newlines": "Zachowaj znaki nowej linii",
+      "cut_at_newline": "Tnij przy następnym znaku nowej linii po średniej liczbie słów",
+      "slice_button": "Podziel",
+      "error_no_file": "Błąd: Nie wybrano pliku.",
+      "error_file_not_exist": "Błąd: Plik {file} nie istnieje.",
+      "success_message": "Tekst został podzielony na {count} plików w folderze '{folder}'.",
+      "language": "Język:",
+      "theme": "Motyw:",
+      "appearance": "Wygląd",
+      "about": "O programie",
+      "app_description": "Aplikacja do dzielenia plików tekstowych na wiele części na podstawie liczby słów.",
+      "created_by": "Stworzone przez Borisa Hanicotte",
+      "translation_info": "Informacje o tłumaczeniu",
+      "translator": "Tłumacz",
+      "version": "Wersja",
+      "created": "Utworzono",
+      "comment": "Komentarz",
+      "translation_note": "Wybierz preferowany język z powyższego menu."
+    }
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Suomi",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Alustava suomenkielinen käännös Text Slicerille"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Asetukset",
+      "file_selection": "Tiedoston valinta",
+      "browse": "Selaa",
+      "clear": "Tyhjennä",
+      "output_folder": "Tulostuskansio",
+      "parameters": "Parametrit",
+      "avg_words": "Keskimääräinen sanamäärä tiedostoa kohti:",
+      "max_words": "Enimmäissanamäärä tiedostoa kohti:",
+      "file_name": "Tiedostonimet:",
+      "options": "Vaihtoehdot",
+      "preserve_newlines": "Säilytä rivinvaihdot",
+      "cut_at_newline": "Leikkaa seuraavasta rivinvaihdosta keskimääräisen sanamäärän jälkeen",
+      "slice_button": "Pilko",
+      "error_no_file": "Virhe: Tiedostoa ei ole valittu.",
+      "error_file_not_exist": "Virhe: Tiedostoa {file} ei ole olemassa.",
+      "success_message": "Teksti on jaettu {count} tiedostoon kansiossa '{folder}'.",
+      "language": "Kieli:",
+      "theme": "Teema:",
+      "appearance": "Ulkoasu",
+      "about": "Tietoja",
+      "app_description": "Sovellus tekstien jakamiseksi useisiin osiin sanamäärän perusteella.",
+      "created_by": "Tekijä: Boris Hanicotte",
+      "translation_info": "Käännöstiedot",
+      "translator": "Kääntäjä",
+      "version": "Versio",
+      "created": "Luotu",
+      "comment": "Kommentti",
+      "translation_note": "Valitse haluamasi kieli yllä olevasta valikosta."
+    }
+  }
+  

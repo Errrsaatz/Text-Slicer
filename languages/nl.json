@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Nederlands",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Initiële Nederlandse vertaling voor Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Instellingen",
+      "file_selection": "Bestandsselectie",
+      "browse": "Bladeren",
+      "clear": "Wissen",
+      "output_folder": "Uitvoermap",
+      "parameters": "Parameters",
+      "avg_words": "Gemiddeld aantal woorden per bestand:",
+      "max_words": "Maximaal aantal woorden per bestand:",
+      "file_name": "Bestandsnamen:",
+      "options": "Opties",
+      "preserve_newlines": "Regeleinden behouden",
+      "cut_at_newline": "Knippen bij volgende regeleinde na gemiddeld aantal woorden",
+      "slice_button": "Verdelen",
+      "error_no_file": "Fout: Geen bestand geselecteerd.",
+      "error_file_not_exist": "Fout: Het bestand {file} bestaat niet.",
+      "success_message": "De tekst is verdeeld in {count} bestanden in de map '{folder}'.",
+      "language": "Taal:",
+      "theme": "Thema:",
+      "appearance": "Uiterlijk",
+      "about": "Over",
+      "app_description": "Een applicatie om tekstbestanden in meerdere delen te splitsen op basis van het aantal woorden.",
+      "created_by": "Gemaakt door Boris Hanicotte",
+      "translation_info": "Vertaalinformatie",
+      "translator": "Vertaler",
+      "version": "Versie",
+      "created": "Gemaakt op",
+      "comment": "Opmerking",
+      "translation_note": "Selecteer uw voorkeurstaal in het menu hierboven."
+    }
+  }
+  

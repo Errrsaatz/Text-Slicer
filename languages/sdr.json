@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Sindarin",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Min Sindarin tengwad an Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Idhrin",
+      "file_selection": "Tegol Teithant",
+      "browse": "Tirn",
+      "clear": "Glan",
+      "output_folder": "Adel Mund",
+      "parameters": "Thîr",
+      "avg_words": "Enedh pith vi teithant:",
+      "max_words": "Arnediad pith vi teithant:",
+      "file_name": "Eneth teithant:",
+      "options": "Cired",
+      "preserve_newlines": "Beria lîn-dagnir",
+      "cut_at_newline": "Dag na i ennas lîn-dagnir and enedh pith",
+      "slice_button": "Dag",
+      "error_no_file": "Mist: Ú-teithant togol.",
+      "error_file_not_exist": "Mist: Teithant {file} ú-tôg.",
+      "success_message": "I teith na dagnen {count} teithant vi mund '{folder}'.",
+      "language": "Lammas:",
+      "theme": "Thîr:",
+      "appearance": "Tírad",
+      "about": "Am",
+      "app_description": "Nauth an dag teith teithant na laew rann hervenn pith genediad.",
+      "created_by": "Echant an Boris Hanicotte",
+      "translation_info": "Tengwad Istui",
+      "translator": "Tengwador",
+      "version": "Amgarn",
+      "created": "Echant vi",
+      "comment": "Nothlad",
+      "translation_note": "Ciro i lammas meren lín o i cired or."
+    }
+  }
+  

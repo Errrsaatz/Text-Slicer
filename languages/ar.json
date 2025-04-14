@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "العربية",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "الترجمة العربية الأولية لـ Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "الإعدادات",
+      "file_selection": "اختيار الملف",
+      "browse": "تصفح",
+      "clear": "مسح",
+      "output_folder": "مجلد الإخراج",
+      "parameters": "المعايير",
+      "avg_words": "متوسط الكلمات لكل ملف:",
+      "max_words": "الحد الأقصى للكلمات لكل ملف:",
+      "file_name": "أسماء الملفات:",
+      "options": "الخيارات",
+      "preserve_newlines": "الحفاظ على فواصل الأسطر",
+      "cut_at_newline": "القطع عند فاصل السطر التالي بعد متوسط الكلمات",
+      "slice_button": "تقطيع",
+      "error_no_file": "خطأ: لم يتم اختيار أي ملف.",
+      "error_file_not_exist": "خطأ: الملف {file} غير موجود.",
+      "success_message": "تم تقسيم النص إلى {count} ملفات في المجلد '{folder}'.",
+      "language": "اللغة:",
+      "theme": "السمة:",
+      "appearance": "المظهر",
+      "about": "حول",
+      "app_description": "تطبيق لتقسيم ملفات النص إلى عدة أجزاء بناءً على عدد الكلمات.",
+      "created_by": "تم إنشاؤه بواسطة Boris Hanicotte",
+      "translation_info": "معلومات الترجمة",
+      "translator": "المترجم",
+      "version": "الإصدار",
+      "created": "تم الإنشاء في",
+      "comment": "تعليق",
+      "translation_note": "اختر لغتك المفضلة من القائمة أعلاه."
+    }
+  }
+  

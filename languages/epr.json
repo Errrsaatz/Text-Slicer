@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Esperanto",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Unua Esperanta traduko por Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Agordoj",
+      "file_selection": "Dosiera Elekto",
+      "browse": "Foliumi",
+      "clear": "Viŝi",
+      "output_folder": "Eliga Dosierujo",
+      "parameters": "Parametroj",
+      "avg_words": "Averaĝa nombro da vortoj per dosiero:",
+      "max_words": "Maksimuma nombro da vortoj per dosiero:",
+      "file_name": "Dosiernomoj:",
+      "options": "Opcioj",
+      "preserve_newlines": "Konservi linifinojn",
+      "cut_at_newline": "Tranĉi ĉe la sekva linifino post la averaĝa nombro da vortoj",
+      "slice_button": "Tranĉi",
+      "error_no_file": "Eraro: Neniu dosiero elektita.",
+      "error_file_not_exist": "Eraro: Dosiero {file} ne ekzistas.",
+      "success_message": "La teksto estis dividita en {count} dosierojn en la dosierujo '{folder}'.",
+      "language": "Lingvo:",
+      "theme": "Etoso:",
+      "appearance": "Aspekto",
+      "about": "Pri",
+      "app_description": "Aplikaĵo por dividi tekstajn dosierojn en plurajn partojn laŭ la nombro da vortoj.",
+      "created_by": "Kreita de Boris Hanicotte",
+      "translation_info": "Traduka Informo",
+      "translator": "Tradukisto",
+      "version": "Versio",
+      "created": "Kreita je",
+      "comment": "Komento",
+      "translation_note": "Elektu vian preferatan lingvon el la supera menuo."
+    }
+  }
+  

@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Ελληνικά",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Αρχική ελληνική μετάφραση για το Text Slicer"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Ρυθμίσεις",
+      "file_selection": "Επιλογή αρχείου",
+      "browse": "Περιήγηση",
+      "clear": "Καθαρισμός",
+      "output_folder": "Φάκελος εξόδου",
+      "parameters": "Παράμετροι",
+      "avg_words": "Μέσος όρος λέξεων ανά αρχείο:",
+      "max_words": "Μέγιστος αριθμός λέξεων ανά αρχείο:",
+      "file_name": "Ονόματα αρχείων:",
+      "options": "Επιλογές",
+      "preserve_newlines": "Διατήρηση αλλαγών γραμμής",
+      "cut_at_newline": "Κόψιμο στην επόμενη αλλαγή γραμμής μετά το μέσο όρο λέξεων",
+      "slice_button": "Διαχωρισμός",
+      "error_no_file": "Σφάλμα: Δεν έχει επιλεγεί αρχείο.",
+      "error_file_not_exist": "Σφάλμα: Το αρχείο {file} δεν υπάρχει.",
+      "success_message": "Το κείμενο έχει διαιρεθεί σε {count} αρχεία στο φάκελο '{folder}'.",
+      "language": "Γλώσσα:",
+      "theme": "Θέμα:",
+      "appearance": "Εμφάνιση",
+      "about": "Σχετικά",
+      "app_description": "Μια εφαρμογή για το διαχωρισμό αρχείων κειμένου σε πολλαπλά μέρη με βάση τον αριθμό λέξεων.",
+      "created_by": "Δημιουργήθηκε από τον Boris Hanicotte",
+      "translation_info": "Πληροφορίες μετάφρασης",
+      "translator": "Μεταφραστής",
+      "version": "Έκδοση",
+      "created": "Δημιουργήθηκε στις",
+      "comment": "Σχόλιο",
+      "translation_note": "Επιλέξτε την προτιμώμενη γλώσσα από το παραπάνω μενού."
+    }
+  }
+  

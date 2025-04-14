@@ -1,0 +1,9 @@
+{
+  "language": "en",
+  "theme": "flatly",
+  "last_input_directory": "",
+  "last_output_directory": "",
+  "default_average_words": 500,
+  "default_max_words": 1000,
+  "default_file_prefix": "part"
+}

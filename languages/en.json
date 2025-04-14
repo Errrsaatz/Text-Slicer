@@ -1,0 +1,41 @@
+{
+  "metadata": {
+    "lang": "English",
+    "author": "System",
+    "created": "2025-04-14",
+    "version": "1.0",
+    "comment": "Default English language file"
+  },
+  "translations": {
+    "app_title": "Text Slicer",
+    "main_tab": "Text Slicer",
+    "settings_tab": "Settings",
+    "file_selection": "File Selection",
+    "browse": "Browse",
+    "clear": "Clear",
+    "output_folder": "Output Folder",
+    "parameters": "Parameters",
+    "avg_words": "Average words per file:",
+    "max_words": "Maximum words per file:",
+    "file_name": "File names:",
+    "options": "Options",
+    "preserve_newlines": "Preserve newlines",
+    "cut_at_newline": "Cut at next newline after average word count",
+    "slice_button": "Slice",
+    "error_no_file": "Error: No file selected.",
+    "error_file_not_exist": "Error: The file {file} does not exist.",
+    "success_message": "The text has been divided into {count} files in the folder '{folder}'.",
+    "language": "Language:",
+    "theme": "Theme:",
+    "appearance": "Appearance",
+    "about": "About",
+    "app_description": "An application to split text files into multiple parts based on word count.",
+    "created_by": "Created by Boris Hanicotte",
+    "translation_info": "Translation Information",
+    "translator": "Translator",
+    "version": "Version",
+    "created": "Created on",
+    "comment": "Comment",
+    "translation_note": "Select your preferred language from the menu above."
+  }
+}

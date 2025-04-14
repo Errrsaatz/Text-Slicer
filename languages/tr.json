@@ -1,0 +1,42 @@
+{
+    "metadata": {
+      "lang": "Türkçe",
+      "author": "Boris Hanicotte",
+      "created": "2025-04-14",
+      "version": "1.0",
+      "comment": "Text Slicer için ilk Türkçe çeviri"
+    },
+    "translations": {
+      "app_title": "Text Slicer",
+      "main_tab": "Text Slicer",
+      "settings_tab": "Ayarlar",
+      "file_selection": "Dosya Seçimi",
+      "browse": "Gözat",
+      "clear": "Temizle",
+      "output_folder": "Çıktı Klasörü",
+      "parameters": "Parametreler",
+      "avg_words": "Dosya başına ortalama kelime:",
+      "max_words": "Dosya başına maksimum kelime:",
+      "file_name": "Dosya adları:",
+      "options": "Seçenekler",
+      "preserve_newlines": "Satır sonlarını koru",
+      "cut_at_newline": "Ortalama kelime sayısından sonraki satır sonunda kes",
+      "slice_button": "Dilimle",
+      "error_no_file": "Hata: Hiçbir dosya seçilmedi.",
+      "error_file_not_exist": "Hata: {file} dosyası mevcut değil.",
+      "success_message": "Metin, '{folder}' klasöründe {count} dosyaya bölündü.",
+      "language": "Dil:",
+      "theme": "Tema:",
+      "appearance": "Görünüm",
+      "about": "Hakkında",
+      "app_description": "Metin dosyalarını kelime sayısına göre birden çok parçaya bölen bir uygulama.",
+      "created_by": "Boris Hanicotte tarafından oluşturuldu",
+      "translation_info": "Çeviri Bilgisi",
+      "translator": "Çevirmen",
+      "version": "Sürüm",
+      "created": "Oluşturulma tarihi",
+      "comment": "Yorum",
+      "translation_note": "Tercih ettiğiniz dili yukarıdaki menüden seçin."
+    }
+  }
+  
